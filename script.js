@@ -5,5 +5,5 @@ function setup() {
 
 /** This is a draw function. */
 function draw() {
-  background(220);
+  background(0);
 }
