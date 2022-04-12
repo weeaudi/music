@@ -6,6 +6,7 @@ Todo phase 1:
 
 Todo phase 2:
 *metromone
+*Find name
 
 Todo phase 3:
 *scroll bar
